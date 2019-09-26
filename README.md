@@ -1,6 +1,7 @@
 # PYSCH 251 Repo
 
-
+| Repository Details||
+|---------|--------------|
 | Author | Jacob Ritchie |
 | Email | jritchie@stanford.edu |
 | Term  | Fall 2019 |
