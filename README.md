@@ -5,7 +5,7 @@
 | Author | Jacob Ritchie |
 | Email | jritchie@stanford.edu |
 | Term  | Fall 2019 |
-| Assignment | PS1 (github) |
+| Assignment | PS1 (Git + Github) |
 
 This is a public github repository created for the course PSYCH 251. 
 
