@@ -23,4 +23,4 @@ There is one R file, pset0.R, which uses a ```t.test``` to check whether samples
 
 ## Contributors
 
-The only contributor to this repository is me, [jritch][github.com/jritch].
+The only contributor to this repository is me, [jritch](https://github.com/jritch).
